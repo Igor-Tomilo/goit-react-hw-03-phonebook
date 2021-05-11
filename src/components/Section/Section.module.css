@@ -1,0 +1,12 @@
+.container {
+  width: 25%;
+  padding-left: 30px;
+  padding-bottom: 15px;
+  margin: auto;
+  background: rgba(247, 247, 047, 0.5);
+}
+
+.container__title {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
